@@ -1,0 +1,7 @@
+# Игнорировать виртуальное окружение Python
+venv/
+.venv/
+env/
+*.pyc
+__pycache__/
+*.ipynb
